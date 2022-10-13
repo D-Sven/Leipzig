@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="HDL_Hangar_1" lat="N51 14.589762" lon="E11 41.588189" heading="85"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="HDL_Hangar_2" lat="N51 14.590724" lon="E11 41.599774" heading="85"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="HDL_Hangar_3" lat="N51 14.589725" lon="E11 41.626505" heading="265"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Grass_1" lat="N51 14.605958" lon="E11 41.583226" heading="175"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Grass_2" lat="N51 14.606037" lon="E11 41.600207" heading="175"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>
+
+
+
+<!--
+11.69313648 51.24316270 hdg 85
+11.69332957 51.24317874 hdg 85
+11.69377508 51.24316208 hdg 265
+11.69305377 51.24343264 hdg 175
+11.69333679 51.24343395 hdg 175
+-->
